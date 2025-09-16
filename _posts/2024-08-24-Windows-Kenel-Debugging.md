@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Windows Kernel Debugging
 date: 2024-08-24 10:00:00 -0500
 categories: [WKE, pwn]
