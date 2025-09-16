@@ -11,7 +11,7 @@ dsecription: Windows Exploitation - Structured Exception Handler Overflow
 
 Structured Exception Handlers (SEH) is a mechanism used by Windows C++ applications to catch exceptions that occur during the runtime of the program. Other high-level languages like Python, Java, C#, Rust, and Go also utilize exception handling ___.
 
-I was first introduced to SEH overflows during my time in Offensive Security's [OSED](TODO) certification training.
+I was first introduced to SEH overflows during my time in Offensive Security's OSED certification training.
 
 In modern 64-bit Windows systems, the function's SEH is stored in a table ____, as opposed to being on the stack 
 
